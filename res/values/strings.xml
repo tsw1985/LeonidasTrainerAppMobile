@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LeonidasTraining</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="title_activity_configuration">ConfigurationActivity</string>
+
+    <!-- Main Menu -->
+    <string name="main_menu_syncronize_button">Sincronizar entrenamientos</string>
+
+    <!-- End Main Menu -->
+
+
+    <!-- Pantalla configuracion -->
+    <string name="title_screen">Configuración de usuario</string>
+    <string name="dni_user">DNI</string>
+    <string name="phone_user">Teléfono</string>
+    <string name="save_config_button">Guardar</string>
+    <!-- Fin pantalla configuracion -->
+
+
+    <!-- Pantalla Listado de entrenamientos -->
+    <string name="title_activity_list_trainers">ListTrainersActivity</string>
+    <string name="title_header_activity_list_trainers">Mis entrenamientos</string>
+    <string name="title_sport_activity_list">Actividad:</string>
+
+    <!-- Fin listado pantalla de entrenamientos -->
+
+
+    <!-- Pantalla lista de ejercicios de un entrenamiento -->
+    <string name="title_exercices_in_trainer_x">Entrenamiento:</string>
+    <string name="title_select_day_in_trainer">Día:</string>
+    <string name="title_select_body_place_in_trainer">Agrupado</string>
+
+    <!-- Fin Pantalla lista de ejercicios de un entrenamiento -->
+
+    <string name="title_activity_trainer_content">TrainerContentActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_my_evolution_kg">MyEvolutionKgActivity</string>
+
+</resources>
